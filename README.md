@@ -1,4 +1,6 @@
 # BigData
+There are 3 csv files ipl_matches.csv, ipl_venues.csv and ipl_ball_by_ball.csv
+
 Big Data Project where queries are performed on ipl mathces.
 1.	Find the top 3 venues which hosted the most number of eliminator matches?
 2.	Return most number of catches taken by a player in IPL history?
