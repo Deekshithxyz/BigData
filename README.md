@@ -1,5 +1,5 @@
 # BigData
-There are 3 csv files ipl_matches.csv, ipl_venues.csv and ipl_ball_by_ball.csv
+There are 3 csv files ipl_matches.csv, ipl_venues.csv and ipl_ball_by_ball.csv. These files are self explanatory and are used to perform sql queries for below mentioned questions.
 
 Big Data Project where queries are performed on ipl mathces.
 1.	Find the top 3 venues which hosted the most number of eliminator matches?
